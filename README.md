@@ -52,4 +52,9 @@ source venv/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 
+```
+## Usage
 
+``bash
+streamlit run app1.py
+```
