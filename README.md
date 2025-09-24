@@ -29,13 +29,13 @@ Watch a demo of the Resume QA System:
 
 ## Tech Stack
 
-- **Frontend / UI:** Streamlit  
 - **PDF Extraction:** pdfplumber  
 - **Text Processing & Chunking:** langchain.text_splitter  
 - **Vector Database:** FAISS  
 - **Embeddings:** HuggingFace `all-MiniLM-L6-v2`  
 - **LLM for QA:** Ollama  
-- **Monitoring / Logging:** Langfuse  
+- **Monitoring / Logging:** Langfuse
+-  **Frontend / UI:** Streamlit   
 - **Environment Management:** Python `.env` + python-dotenv  
 
 
