@@ -55,6 +55,11 @@ pip install -r requirements.txt
 ```
 ## Usage
 
-``bash
+```bash
 streamlit run app1.py
+
 ```
+
+## Author
+Misty Roy
+
