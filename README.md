@@ -40,22 +40,16 @@ Watch a demo of the Resume QA System:
 
 ## Installation
 
-1. **Clone the repository**
 ```bash
+# Clone the repo
 git clone https://github.com/Misty033/Resume_QnA_Simple_RAG.git
 cd Resume_QnA_Simple_RAG
 
-2. Create a virtual environment
-
-# Linux/macOS
+# Create virtual environment (Linux/macOS)
 python -m venv venv
 source venv/bin/activate
 
-# Windows
-python -m venv venv
-venv\Scripts\activate
-
-3. Install dependencies
-
+# Install dependencies
 pip install -r requirements.txt
+
 
