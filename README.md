@@ -20,13 +20,7 @@ It uses **PDF extraction**, **text cleaning & chunking**, **FAISS semantic searc
 
 Watch a demo of the Resume QA System:
 
-<video width="480" controls>
-  <source src="demo_videos/demo_version1.webm" type="video/webm">
-  Your browser does not support the video tag. 
-  <a href="demo_videos/demo_version1.webm">Click here to watch the video</a>
-</video>
-
-Or click the link directly: [Watch Demo Video](demo_videos/demo_version1.webm)
+click the link directly: [Watch Demo Video](demo_videos/demo_version1.webm)
 
 
 ---
