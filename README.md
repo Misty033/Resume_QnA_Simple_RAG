@@ -5,6 +5,8 @@ It uses **PDF extraction**, **text cleaning & chunking**, **FAISS semantic searc
 
 ---
 
+![RAG workflow](images/RAG_Resume_workflow.png)
+
 ## Features
 
 - Upload PDF resumes and extract clean text.
