@@ -1,4 +1,4 @@
-# Resume QA System
+# Resume QnA System
 
 A **simple RAG-based Resume Question-Answering system** that allows users to upload PDF resumes and ask questions about their content.  
 It uses **PDF extraction**, **text cleaning & chunking**, **FAISS semantic search**, and **Ollama LLM** for generating answers. **Langfuse** is integrated for monitoring and logging. **Streamlit** is used for frontend UI.
