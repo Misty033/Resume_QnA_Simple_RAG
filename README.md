@@ -6,7 +6,7 @@ It uses **PDF extraction**, **text cleaning & chunking**, **FAISS semantic searc
 ---
 
 ![RAG workflow](images/RAG_Resume_workflow.png)
-![RAG](images/rag.png)
+
 
 ## Features
 
